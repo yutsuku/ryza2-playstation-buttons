@@ -873,14 +873,14 @@
 						<text name="text_l" font_color="255.00, 255.00, 230.00, 255.00" font_size="16.00" pos="14.00, 14.00, 0.00" string_id="STR_UI_0033"/>
 						<command target_node="text_l" platform_forNX="false" platform_forPS4="true" platform_forVITA="false" platform_forX64="false" set_string_id="STR_UI_0325"/>
 						<command target_node="text_l" platform_forNX="true" platform_forPS4="false" platform_forVITA="false" platform_forX64="false" set_string_id="STR_UI_0326"/>
-						<command target_node="text_l" platform_forNX="false" platform_forPS4="false" platform_forVITA="false" platform_forX64="true" set_string_id="STR_UI_0327"/>
+						<command target_node="text_l" platform_forNX="false" platform_forPS4="false" platform_forVITA="false" platform_forX64="true" set_string_id="STR_UI_0325"/>
 					</node>
 					<node name="r_button" pos="164.00, -1.00, 0.00" scale="0.90, 0.90, 1.00">
 						<image name="bg" style="gen_a22_btl01_repeat"/>
 						<text name="text_r" font_color="255.00, 255.00, 230.00, 255.00" font_size="16.00" pos="13.00, 13.00, 0.00" string_id="STR_UI_0033"/>
 						<command target_node="text_r" platform_forNX="false" platform_forPS4="true" platform_forVITA="false" platform_forX64="false" set_string_id="STR_UI_0328"/>
 						<command target_node="text_r" platform_forNX="true" platform_forPS4="false" platform_forVITA="false" platform_forX64="false" set_string_id="STR_UI_0329"/>
-						<command target_node="text_r" platform_forNX="false" platform_forPS4="false" platform_forVITA="false" platform_forX64="true" set_string_id="STR_UI_0330"/>
+						<command target_node="text_r" platform_forNX="false" platform_forPS4="false" platform_forVITA="false" platform_forX64="true" set_string_id="STR_UI_0328"/>
 					</node>
 				</node>
 				<node name="left_only" visible="false" clone_child_tree="./default" viewer_visible="true"/>
