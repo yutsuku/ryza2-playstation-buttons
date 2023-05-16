@@ -3,13 +3,15 @@
 
 ---
 
+![showcase](docs/ryza2-playstation-patch-promo.png "")
+
 # Installation 
 ## Copy/unpack to main game directory, in such way that there is a subfolder
-![alt text](docs/preview-main.png "directory structure")
+![directory structure](docs/preview-main.png "directory structure")
 
 ## Double click on `install.bat`
 
 ### In case of game version mismatch, you will have to approve instalation manually
 
 ## Done
-![alt text](docs/preview.png "console output")
+![console output](docs/preview.png "console output")
