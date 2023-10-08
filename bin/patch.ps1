@@ -301,13 +301,10 @@ function PACK02 {
 try {
     
     if (Get-Hash) {
-        $result = Read-KeyOrTimeout "The patch was not tested with your game version. Continue installation? [Y/n] (default=n)" "n"
+        $result = Read-KeyOrTimeout "The patch was not tested with your game version. Continue installation? [Y/n] (default=Y)" "Y"
         if ($result -eq 'N') {
             throw "Game version mismatch."
-        }
-        else {
-            throw "Please enter valid input key."
-        }
+        }      
     }
 
     Prepare
